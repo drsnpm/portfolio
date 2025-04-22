@@ -208,6 +208,11 @@ span{
     gap: 2rem;
 }
 
+.projects-container a {
+    text-decoration: none;
+    color: inherit;
+  }
+
 .projects-container .projects-box{
     flex: 1 1 30rem;
     background: var(--bg-color);
